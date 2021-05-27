@@ -1,0 +1,51 @@
+.container {
+  margin-top: 1em !important;
+}
+.card{
+  margin-top:1em;
+}
+.card-title{
+  margin-top:-1.6em;
+}
+.card-title span{
+  background-color: white;
+  padding: 0 5px;
+}
+.control-label{
+  margin-top:0.3rem;
+  margin-bottom:0px;
+  font-weight:500;
+}
+.required{
+  color:red;
+}
+.formula{
+  padding-top: 2em;
+  opacity: 0.5;
+}
+#saveBtn{
+  border-radius: 0.3em;
+  margin: 1em 0;
+  padding: 0.5em 2em;
+}
+.react-datepicker-wrapper{
+  width:100% !important;
+}
+#_function_time_other,
+#_function_mean_other,
+#_venue_other,
+#_catering_menu_other,
+#_entertainment_other{
+  display:none;
+}
+#function_time_other_,
+#function_mean_other_,
+#venue_other_,
+#catering_menu_other_,
+#entertainment_other_{
+  display:block;
+}
+.error-block{
+  color:red;
+  font-size:0.8em;
+}
